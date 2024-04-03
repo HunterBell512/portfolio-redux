@@ -30,8 +30,12 @@ export default function Nav () {
                         Portfolio
                     </Link>
                 </Navbar.Item>
-                <Navbar.Item>
-                    Projects
+                <Navbar.Item style={currentLocation === '/contact' ? styles.activeTab : {}}>
+                    <Link
+                        to='/contact'
+                    >
+                        Contact
+                    </Link>
                 </Navbar.Item>
                 <Navbar.Item>
                     Contact

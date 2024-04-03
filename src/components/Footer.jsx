@@ -9,7 +9,7 @@ import 'bulma/css/bulma.min.css';
 export default function Foot () {
     return (
         
-        <Footer>
+        <Footer style={{ background: '#0000'}}>
             <Container>
                 <Content>
                     <Columns>
