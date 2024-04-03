@@ -16,29 +16,29 @@ export default function Nav () {
     return (
         <Navbar alignContent='center'>
             <Navbar.Container align='left'>
-                <Navbar.Item style={currentLocation === '/' ? styles.activeTab : {}}>
+                <Navbar.Item radiusless='true' style={currentLocation === '/' ? styles.activeTab : {}}>
                     <Link
                         to='/'
                     >
                         About Me
                     </Link>
                 </Navbar.Item>
-                <Navbar.Item style={currentLocation === '/portfolio' ? styles.activeTab : {}}>
+                <Navbar.Item radiusless='true' style={currentLocation === '/portfolio' ? styles.activeTab : {}}>
                     <Link
                         to='/portfolio'
                     >
                         Portfolio
                     </Link>
                 </Navbar.Item>
-                <Navbar.Item style={currentLocation === '/contact' ? styles.activeTab : {}}>
+                <Navbar.Item radiusless='true' style={currentLocation === '/contact' ? styles.activeTab : {}}>
                     <Link
                         to='/contact'
                     >
                         Contact
                     </Link>
                 </Navbar.Item>
-                <Navbar.Item>
-                    Contact
+                <Navbar.Item radiusless='true' style={currentLocation === '/resume' ? styles.activeTab : {}}>
+                    Resume
                 </Navbar.Item>
             </Navbar.Container>
         </Navbar>
