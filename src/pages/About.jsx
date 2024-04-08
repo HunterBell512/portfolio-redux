@@ -43,7 +43,7 @@ export default function About() {
                         </Columns.Column>
                         <Columns.Column>
                             <img
-                            src="./src/assets/images/avatar.png"
+                            src="../../assets/images/avatar.png"
                             alt="image of Ultra Instinct Shaggy"
                             style={styles.image}/>
                             <p className='has-text-black'>(This is an accurate picture of me, I promise)</p>

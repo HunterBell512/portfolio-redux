@@ -22,7 +22,7 @@ export default function Portfolio () {
                         <Card style={styles.card}>
                             <Card.Image 
                                 size='4by3'
-                                src='./src/assets/images/project1.png'
+                                src='../../assets/images/project1.png'
                             />
                             <Card.Content>
                                 <Media>
@@ -30,7 +30,7 @@ export default function Portfolio () {
                                         <Image 
                                             size={64}
                                             alt='64x64'
-                                            src='./src/assets/images/avatar.png'
+                                            src='../../assets/images/avatar.png'
                                         />
                                     </Media.Item>
                                     <Media.Item>
@@ -50,7 +50,7 @@ export default function Portfolio () {
                     <Card style={styles.card}>
                             <Card.Image 
                                 size='4by3'
-                                src='./src/assets/images/project2.png'
+                                src='../../assets/images/project2.png'
                             />
                             <Card.Content>
                                 <Media>
@@ -58,7 +58,7 @@ export default function Portfolio () {
                                         <Image 
                                             size={64}
                                             alt='64x64'
-                                            src='./src/assets/images/avatar.png'
+                                            src='../../assets/images/avatar.png'
                                         />
                                     </Media.Item>
                                     <Media.Item>
@@ -78,7 +78,7 @@ export default function Portfolio () {
                     <Card style={styles.card}>
                             <Card.Image 
                                 size='4by3'
-                                src='./src/assets/images/project3.png'
+                                src='../../assets/images/project3.png'
                             />
                             <Card.Content>
                                 <Media>
@@ -86,7 +86,7 @@ export default function Portfolio () {
                                         <Image 
                                             size={64}
                                             alt='64x64'
-                                            src='./src/assets/images/avatar.png'
+                                            src='../../assets/images/avatar.png'
                                         />
                                     </Media.Item>
                                     <Media.Item>
@@ -109,7 +109,7 @@ export default function Portfolio () {
                     <Card style={styles.card}>
                             <Card.Image 
                                 size='4by3'
-                                src='./src/assets/images/project4.png'
+                                src='../../assets/images/project4.png'
                             />
                             <Card.Content>
                                 <Media>
@@ -117,7 +117,7 @@ export default function Portfolio () {
                                         <Image 
                                             size={64}
                                             alt='64x64'
-                                            src='./src/assets/images/avatar.png'
+                                            src='../../assets/images/avatar.png'
                                         />
                                     </Media.Item>
                                     <Media.Item>
@@ -140,7 +140,7 @@ export default function Portfolio () {
                     <Card style={styles.card}>
                             <Card.Image 
                                 size='4by3'
-                                src='./src/assets/images/project5.png'
+                                src='../../assets/images/project5.png'
                             />
                             <Card.Content>
                                 <Media>
@@ -148,7 +148,7 @@ export default function Portfolio () {
                                         <Image 
                                             size={64}
                                             alt='64x64'
-                                            src='./src/assets/images/avatar.png'
+                                            src='../../assets/images/avatar.png'
                                         />
                                     </Media.Item>
                                     <Media.Item>
@@ -171,7 +171,7 @@ export default function Portfolio () {
                     <Card style={styles.card}>
                             <Card.Image 
                                 size='4by3'
-                                src='./src/assets/images/project6.png'
+                                src='../../assets/images/project6.png'
                             />
                             <Card.Content>
                                 <Media>
@@ -179,7 +179,7 @@ export default function Portfolio () {
                                         <Image 
                                             size={64}
                                             alt='64x64'
-                                            src='./src/assets/images/avatar.png'
+                                            src='../../assets/images/avatar.png'
                                         />
                                     </Media.Item>
                                     <Media.Item>
