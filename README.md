@@ -1,8 +1,11 @@
-# React + Vite
+# The Bell Tower
+Welcome to The Bell Tower! I know, not much of a tower right now, but I will be eventually!  
+This is my second attempt at building a portfolio website, but this time now with React!  
+Here you can learn a little about me, see a showcase of my projects, and even my resume is on there now (Oooooh fancy)!  
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Live Application
+Why waste anymore time with meaningless yammering when you can just go there yourself by clicking the link below!
+[The Bell Tower](https://radiant-bienenstitch-df3d83.netlify.app)
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Preview
+![preview-image](./public/assets/images/preview.png)
