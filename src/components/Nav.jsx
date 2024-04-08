@@ -38,7 +38,11 @@ export default function Nav () {
                     </Link>
                 </Navbar.Item>
                 <Navbar.Item radiusless='true' style={currentLocation === '/resume' ? styles.activeTab : {}}>
-                    Resume
+                <Link
+                        to='/resume'
+                    >
+                        Resume
+                    </Link>
                 </Navbar.Item>
             </Navbar.Container>
         </Navbar>

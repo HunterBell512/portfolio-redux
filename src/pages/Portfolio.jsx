@@ -95,8 +95,10 @@ export default function Portfolio () {
                                     </Media.Item>
                                 </Media>
                                 <Content>
-                                    This was my first attempt at interacting with and developing backend technologies using the Node Package Manager.
-                                    This app in particular uses the Inquirer package.<br/>
+                                    <i>
+                                        This was my first attempt at interacting with and developing backend technologies using the Node Package Manager.
+                                        This app in particular uses the Inquirer package.<br/>
+                                    </i>
                                     Repo: <a href='https://github.com/HunterBell512/readme-generator-3000'>Here</a><br/>
                                     Live Demo: Instructions for demo are featured in the repo.
                                 </Content>
@@ -124,8 +126,10 @@ export default function Portfolio () {
                                     </Media.Item>
                                 </Media>
                                 <Content>
-                                    This was my second take at making a backend application with node. What sets this one apart from the previous example is that
-                                    the use of creating and implementing classes.<br/>
+                                    <i>
+                                        This was my second take at making a backend application with node. What sets this one apart from the previous example is that
+                                        the use of creating and implementing classes.<br/>
+                                    </i>
                                     Repo: <a href='https://github.com/HunterBell512/svg-generator-3000'>Here</a><br/>
                                     Live Demo: Instructions for demo are featured in the repo.
                                 </Content>
@@ -153,10 +157,43 @@ export default function Portfolio () {
                                     </Media.Item>
                                 </Media>
                                 <Content>
-                                    This was my second major attempt at collaborating with a team of my peers. This project was centered around the use of tying together frontend
-                                    and backend design, creating and using a database, deploying the app to a hosting platform. <br/>
+                                    <i>
+                                        This was my second major attempt at collaborating with a team of my peers. This project was centered around the use of tying together frontend
+                                        and backend design, creating and using a database, deploying the app to a hosting platform. <br/>
+                                    </i>
                                     Repo: <a href='https://github.com/kathylopez97/Convention-Planner'>Here</a><br/>
                                     Live Demo: <a href='https://convention-planner-f58cd02bb10c.herokuapp.com'>Here</a><br/>
+                                </Content>
+                            </Card.Content>
+                        </Card>
+                    </Columns.Column>
+                    <Columns.Column size='one-third'>
+                    <Card style={styles.card}>
+                            <Card.Image 
+                                size='4by3'
+                                src='./src/assets/images/project6.png'
+                            />
+                            <Card.Content>
+                                <Media>
+                                    <Media.Item renderAs='figure' align='left'>
+                                        <Image 
+                                            size={64}
+                                            alt='64x64'
+                                            src='./src/assets/images/avatar.png'
+                                        />
+                                    </Media.Item>
+                                    <Media.Item>
+                                        <Heading size={4}>Command-line Employee Manager</Heading>
+                                        <Heading subtitle size={6}>Developed by: Hunter Bell</Heading>
+                                    </Media.Item>
+                                </Media>
+                                <Content>
+                                    <i>
+                                        I developed this application to get a better understanding of the MySQL database language and designing a back-end with it.
+                                        I uses inquirer as the central command interface. <br/>
+                                    </i>
+                                    Repo: <a href='https://github.com/HunterBell512/manageable'>Here</a><br/>
+                                    Live Demo: Instructions for demo are featured in the repo.
                                 </Content>
                             </Card.Content>
                         </Card>
