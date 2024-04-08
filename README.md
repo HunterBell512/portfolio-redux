@@ -8,4 +8,4 @@ Why waste anymore time with meaningless yammering when you can just go there you
 [The Bell Tower](https://radiant-bienenstitch-df3d83.netlify.app)
 
 ## Preview
-![preview-image](./public/assets/images/preview.png)
+![preview-image](./public/assets/images/demo.png)
